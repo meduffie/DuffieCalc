@@ -1,0 +1,4 @@
+DuffieCalc
+==========
+
+A simple calculator
